@@ -1,2 +1,2 @@
 # MyFlashcard
-My own flashcard
+My own flashcard with firmware, system, plugin and tools.
