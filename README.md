@@ -1,2 +1,2 @@
 # MyFlashcard
-My own flashcard with firmware, system, plugin and tools.
+My own GBC, GBA, NDS flashcard with firmware, system, plugin and tools.
