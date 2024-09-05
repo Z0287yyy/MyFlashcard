@@ -1,5 +1,11 @@
 更新内容
 
-K 1.04
-新增对好狗狗星系v1.2的辅助支持
-更新FatFs库到v0.15
+Firmware 7 对应B版
+新增了新的S98芯片支持
+
+Kernel 5
+替换了内置的模拟器为Jagoombacolor 0.5
+注意：因为更换了模拟器，在升级前运行过的GBC游戏，会因为存档保存了原始的Goomba设置，可能会出现兼容错误，请按L+R键，在other settings里面修改gameboy的设置为 Prefer GBC over SGB
+
+
+升级完以后，A版卡是FW5和K105，B版卡是FW7和K105
