@@ -1,5 +1,8 @@
 更新内容
 
+Kernel 6
+优化了NorFlash的驱动
+
 Firmware 7 对应B版
 新增了新的S98芯片支持
 
