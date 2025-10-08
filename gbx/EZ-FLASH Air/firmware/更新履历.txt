@@ -1,5 +1,11 @@
 将ezairkernel.bin放到SD卡的根目录，然后按住R键不放，开机，直到看见内核升级界面，按照界面指引按A键升级，升级完毕后请到内核最后一个页面查看Kernel版本号是否正确
 
+Firmware 3/Kernel 1.04
+修正了MODE B下面的时钟游戏支持，修正了对部分神游游戏的支持
+
+Firmware2/Kernel 1.03
+有Bug，已取消
+
 Kernel 1.02
 修正了一个由ADDON引发的罕见bug
 
